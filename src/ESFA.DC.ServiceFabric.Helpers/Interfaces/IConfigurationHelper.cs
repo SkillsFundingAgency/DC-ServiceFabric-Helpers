@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace ESFA.DC.ServiceFabric.Helpers.Interface
+namespace ESFA.DC.ServiceFabric.Helpers.Interfaces
 {
     public interface IConfigurationHelper
     {

@@ -18,8 +18,4 @@
     <PackageReference Include="StyleCop.Analyzers" Version="1.0.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ESFA.DC.ServiceFabric.Helpers.Interface\ESFA.DC.ServiceFabric.Helpers.Interface.csproj" />
-  </ItemGroup>
-
 </Project>
