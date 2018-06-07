@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Fabric;
 using System.Linq;
 using System.Reflection;
-using System.Text;
 using ESFA.DC.ServiceFabric.Helpers.Interfaces;
 
 namespace ESFA.DC.ServiceFabric.Helpers
