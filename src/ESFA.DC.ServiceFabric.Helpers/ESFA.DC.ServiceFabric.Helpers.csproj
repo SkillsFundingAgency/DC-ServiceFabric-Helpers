@@ -4,6 +4,15 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Platforms>AnyCPU;x64</Platforms>
+    <Description>Provides configuration and serialisation helpers for Service Fabric projects</Description>
+    <Authors>DC</Authors>
+    <Company>ESFA</Company>
+    <Version>0.1.0</Version>
+    <Copyright>Copyright (c) 2018</Copyright>
+    <PackageLicenseUrl>https://github.com/SkillsFundingAgency/DC-ServiceFabric-Helpers/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/SkillsFundingAgency/DC-ServiceFabric-Helpers</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SkillsFundingAgency/DC-ServiceFabric-Helpers</RepositoryUrl>
+    <PackageTags>Service Fabric Serialisation Serialization Configuration</PackageTags>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
